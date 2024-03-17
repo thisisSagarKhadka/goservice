@@ -133,9 +133,6 @@ function App() {
             <a href="/" className="text-reset">Home</a>
           </p>
           <p  className="mb-2">
-            <a href="/" className="text-reset">Builder</a>
-          </p>
-          <p  className="mb-2">
             <a href="/" className="text-reset">How to file a complaint?</a>
           </p>
           <p  className="mb-2">
